@@ -46,7 +46,7 @@ body{
     padding: 20px;
     border-radius: 5px;
     box-shadow: 1px 1px 5px 1px rgba(0, 0, 0, 0.2);
-    animation: fadeInTestimonials 1s forwards;
+    animation: fadeInTestimonials 1s ease-in forwards;
 }
 
 .header{
